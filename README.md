@@ -1,5 +1,5 @@
 # Pocketcoin
-Criação de um app que verifica e transmite em tempo real a cotação de criptomoedas
+Creation of an app that checks and transmits the cryptocurrency quote in real time.
 
 
-Com a utilização da linguagem react native e sua função nativa de Fetch, foram puxados os dados da api de dados do site Mercado Bitcoin,com isso ja feito foi possivel com que se mostrasse na tela do usuario os valores de algumas criptomoedas escolhidas.
+With the use of the react native language and its native Fetch function, data from the data api of the Mercado Bitcoin website were pulled, with that already done, it was possible to show the values of some chosen cryptocurrencies on the user's screen.
